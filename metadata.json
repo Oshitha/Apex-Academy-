@@ -1,0 +1,8 @@
+{
+  "name": "Apex Tuition Academy - Student Registration & Attendance System",
+  "description": "Comprehensive tuition management system featuring tamper-proof QR attendance, role-based admin dashboard, automated payment reminders, grade and OL/AL result tracking, and student payment portal.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
